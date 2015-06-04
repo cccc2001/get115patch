@@ -40,6 +40,7 @@ namespace get115patch
         }
 
         //这是一个测试，如果正确应该可以提交了。
+		//Imodify by Notepad++
         public void downloadfile(string req)
         {
             byte[] tbuf = new byte[512*1024*8];
